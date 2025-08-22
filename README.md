@@ -7,7 +7,9 @@
 <br/>
  
 <div align="center">
+ 
 🔭 I'm currently working on **AI/ML Business Solutions**
+ 
 🌱 I'm currently learning **AWS,Mlops,LLMops**
  
 ⚡ Connect me on social media from below
